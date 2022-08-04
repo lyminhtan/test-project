@@ -27,9 +27,7 @@ DEBUG = True
 
 ALLOWED_HOSTS = [
     '127.0.0.1',
-    '172.16.1.16',
     'new-salaryreview.officience.com',
-
 ]
 
 
