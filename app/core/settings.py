@@ -25,7 +25,12 @@ SECRET_KEY = 'django-insecure-wmt(yp^&_c=#dqw%jtbri50oceg_d#j&j01ae6pn67(7cv$d%t
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [
+    '127.0.0.1',
+    '172.16.1.16',
+    'new-salaryreview.officience.com',
+
+]
 
 
 # Application definition
